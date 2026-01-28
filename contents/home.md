@@ -1,7 +1,5 @@
 
 
-[![senli1073](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/senli1073)
-
 Pinxian Zeng received his B.Eng. and M.S. degrees from Sichuan University. He is currently a Ph.D. candidate in Computer Science at the Faculty of Science and Technology, University of Macau. His primary research interests focus on computer vision, medical image analysis, and medical/biometric image restoration.
 
 #### Contact
