@@ -2,16 +2,17 @@
 
 [![senli1073](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/senli1073)
 
-He is currently a Fellow in the Department of Earth and Planetary Sciences (EPS) at Harvard University.
+Pinxian Zeng received his B.Eng. and M.S. degrees from Sichuan University. He is currently a Ph.D. candidate in Computer Science at the Faculty of Science and Technology, University of Macau. His primary research interests focus on computer vision, medical image analysis, and medical/biometric image restoration.
 
 #### Contact
 
-Email: senli[at]fas.harvard.edu
+Email: yc57911@um.edu.mo
 
 #### Education
-M.E., Computer Science and Technology, China University of Mining and Technology, 2022—2025.\
-B.E., Data Science and Big Data Technology, China University of Mining and Technology, 2018—2022.
+Ph.D, Computer Science and Technology, University of Macau, 2025—Now.\
+M.E., Artificial Intelligence, Sichuan University, 2022—2025.\
+B.E., Computer Science and Technology, Sichuan University, 2018—2022.
 
 #### Research Interests
-Machine Learning for Seismology; Foundation Model; Observational Seismology; Microseismic Monitoring
+ Computer Vision; Medical Image Analysis; Medical/Biometric Image Restoration;
 
