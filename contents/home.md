@@ -16,7 +16,7 @@ Computer Vision; Medical Image Analysis; Medical/Biometric Image Restoration;
 
 #### More Info
 
-\[\[My Google Scholar]](https://scholar.google.com/citations?user=\_XMG9esAAAAJ\&hl=zh-CN)
+\[My Google Scholar](https://scholar.google.com/citations?user=\_XMG9esAAAAJ\&hl=zh-CN)
 
-\[\[PAMI Research Group]](https://pamigroup.github.io/)
+\[PAMI Research Group](https://pamigroup.github.io/)
 

@@ -16,7 +16,7 @@
 
 - <strong>P. Zeng</strong> et al. (2022). 3D CVT-GAN: A 3D Convolutional Vision Transformer-GAN for PET Reconstruction. In: Wang, L., Dou, Q., Fletcher, P.T., Speidel, S., Li, S. (eds) Medical Image Computing and Computer Assisted Intervention – MICCAI 2022, vol 13436. Springer, Cham (2022). [[Paper]](https://doi.org/10.1007/978-3-031-16446-0_49)
 
-#### Other Participated Works
+#### Other Works I Participated
 
 - J. Cui, X. Zeng, <strong>P. Zeng</strong> et al., "MGTP: Multi-Granularity Textual Prompts for Low-Dose Brain PET Image Denoising via Adversarial Diffusion Model," in IEEE Journal of Biomedical and Health Informatics, vol. 30, no. 1, pp. 448-458 (2026). [[Paper]](https://ieeexplore.ieee.org/abstract/document/11217972)
 
