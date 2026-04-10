@@ -1,5 +1,8 @@
 #### 2026
+
 - <strong>[Top]</strong>  I am looking for possible opportunity for intern in summer vacation and possible cooperation. Feel free to contact if I meet your standard.
+
+- <strong>2026.4.3</strong> Congrats to Haozhuo for graduation, and one paper I participated in is accepted by ICPR 2026.
 
 - <strong>2026.1.28</strong> This page is established.
 
