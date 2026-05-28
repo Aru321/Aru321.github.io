@@ -4,7 +4,7 @@
 
 #### Main Published Works
 
-- <strong>P. Zeng</strong>, et al., Dual-Path Latent Diffusion With Multi-Task Interaction for CT-to-PET Translation and Tumor Segmentation. (Accepted by <strong>IEEE ICASSP 2026</strong>)
+- <strong>P. Zeng</strong>, et al., Dual-Path Latent Diffusion with Multi-Task Interaction for CT-to-PET Translation and Tumor Segmentation, ICASSP 2026-2026 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP). IEEE, 2026: 7512-7516. [[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=11464494)
 
 - Zeng, X., <strong>Zeng, P. (co-first)</strong>, et al. MAK-GAN: Multi-level Adaptive Convolutional Kernels for Asymmetric Multi-modal PET Reconstruction. In: Gee, J.C., et al. Medical Image Computing and Computer Assisted Intervention – MICCAI 2025, vol 15961. Springer, Cham (2025). [[Paper]](https://doi.org/10.1007/978-3-032-04937-7_31) 
 
